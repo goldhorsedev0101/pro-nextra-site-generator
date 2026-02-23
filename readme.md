@@ -8,6 +8,8 @@ _Warning: this project is not production ready, API might change without notice.
 
 ![](/public/demo.png)
 
+
+
 ## Development
 
 The code of Nextra is under the [`core`](https://github.com/shuding/nextra/tree/core) branch.
